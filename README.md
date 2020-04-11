@@ -1,7 +1,7 @@
 <!-- GFM-TOC -->
 - [一、Java概述](#一Java概述)
   * [1、Java语言发展史](#1Java语言发展史)
-  * [2、JVM,JRE,JDK的概述](#2JVM-JRE-JDK的概述)
+  * [2、JVM,JRE,JDK的概述](#2JVM&#44;JRE&#44;JDK的概述)
     + [2.1、什么是跨平台?](#21什么是跨平台-)
     + [2.2、JVM JRE JDK](#22JVM-JRE-JDK)
 - [二、数据类型](#二数据类型)
